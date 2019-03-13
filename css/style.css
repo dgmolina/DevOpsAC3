@@ -1,0 +1,43 @@
+body{
+    color: #444444;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+hr{
+    margin-top: 5px; 
+}
+
+.text-thin{
+    font-weight: 100;
+}
+
+.text-muted{
+    color: #bcbbbb;
+}
+
+.tittle-logo{
+    margin-top: 20px;
+    padding-right: 0px;
+}
+
+.tittle-text{
+    margin-top: 10px;
+    padding-left: 0px;
+}
+
+.tittle-super{
+    font-size: 310%;
+}
+
+.featured-tittle{
+    font-size: 200%;
+}
+
+#featWork{
+    margin-top: 10px;
+}
+
+#headH3{
+    margin-top: 10px;
+}
